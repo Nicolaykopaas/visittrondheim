@@ -2,7 +2,7 @@
 
 Et kart som hjelper familier å finne på noe i Trondheim sentrum. Du velger hvor lang tid dere har og hva dere har lyst til, og appen lager en gåtur for dere.
 
-**[Prøv appen her](https://nicolaykopaas.github.io/norkartbedpress/)**
+**[Prøv appen her](https://nicolaykopaas.github.io/visittrondheim/)**
 
 Dette er et eget prosjekt og har ingenting med Visit Trondheim å gjøre.
 

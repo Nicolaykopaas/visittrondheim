@@ -5,7 +5,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 
 const FIL = new URL('../src/sample_data/aktiviteter.json', import.meta.url);
 const API = 'https://commons.wikimedia.org/w/api.php';
-const UA = { 'User-Agent': 'byvandring-trondheim/1.0 (https://github.com/Nicolaykopaas/norkartbedpress)' };
+const UA = { 'User-Agent': 'byvandring-trondheim/1.0 (https://github.com/Nicolaykopaas/visittrondheim)' };
 
 const data = JSON.parse(readFileSync(FIL, 'utf-8'));
 

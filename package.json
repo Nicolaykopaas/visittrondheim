@@ -1,8 +1,8 @@
 {
-  "name": "react-bedpress",
+  "name": "visittrondheim",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://norkart.github.io/norkart-webkurs-CICD-React",
+  "homepage": "https://nicolaykopaas.github.io/visittrondheim",
   "type": "module",
   "scripts": {
     "dev": "vite",
